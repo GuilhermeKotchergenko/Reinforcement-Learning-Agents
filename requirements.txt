@@ -1,0 +1,12 @@
+# torch CPU-only: Blackjack é pequeno, GPU não ajuda e o wheel CUDA tem ~2.5GB
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+gymnasium
+stable-baselines3
+tensorboard
+matplotlib
+pandas
+tqdm
+rich
+ipykernel
+pytest
