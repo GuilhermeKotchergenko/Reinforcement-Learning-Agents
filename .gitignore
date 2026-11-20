@@ -6,3 +6,6 @@ __pycache__/
 # saídas de treino (modelos, logs do tensorboard, csv de avaliação)
 results/*
 !results/.gitkeep
+
+# configuração pessoal do editor
+.vscode/
